@@ -1,2 +1,3 @@
 # Research-Assignment-The-Language-of-Business-Analytics
 This is a Language of Business Analytics Research that is defining essential terms, KPIs and concepts that form the foundation of how modern businesses use data to make decisions.
+The assignment has been divided into sub sections: a, foundation concepts of Analytics- these are the building block concepts every analyst must understand. b, Data, measurement and repotring- it covers tha data infrastructure and reporting concepts every analyst should know. c, customers and sales KPI- it discusses mots watched KPIs in any company that sells to customers. d, marketing and campaign anaytics.
